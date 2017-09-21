@@ -16,10 +16,7 @@ namespace WebMovies
         protected void Page_Load(object sender, EventArgs e)
         {
             //var tmp = Page.Request.Params["__EVENTTARGET"];
-
-
-
-
+                     
             if (this.IsPostBack && isFilteredPageLoad())
             {
                 using (mbl bl1 = new mbl())
@@ -63,7 +60,7 @@ namespace WebMovies
         private mcl.Films getFilms()
         {
             mcl.Films films = new mcl.Films();
-
+            //FilmCacheName is set in the else statement
             if ((cache.UseCache) && (Cache[cache.FilmCacheName] != null))
             {
                 films = Cache[cache.FilmCacheName] as mcl.Films;
@@ -73,6 +70,7 @@ namespace WebMovies
                 using (mbl bl1 = new mbl())
                 {
                     films = bl1.GetFilms(av.CsvPaths.MoviesCSV);
+                    //Set cache.FilmCacheName To Films 
                     if (cache.UseCache) Cache[cache.FilmCacheName] = films;
                 }
             }
@@ -84,6 +82,7 @@ namespace WebMovies
         {
             using (mbl bl1 = new mbl())
             {
+                //Set films to getFilms method. Hence making this not null
                 mcl.Films films = getFilms();
 
                 List<mcl.Director> directors = bl1.GetDistinctDirectorsFromFilms(films);
@@ -100,7 +99,7 @@ namespace WebMovies
             using (mbl bl1 = new mbl())
             {
                 mcl.Films tmp = bl1.GetFilmsSubset(filmID, directorID, actorID, films);
-
+                //If the Ids are null get the values from CVS else get data from imported data
                 List<mcl.Actor> actors = (actorID == null) ? bl1.GetDistinctActorsFromFilms(tmp) : bl1.GetDistinctActor(tmp, actorID);
                 List<mcl.Director> directors = (directorID == null) ? bl1.GetDistinctDirectorsFromFilms(tmp) : bl1.GetDistinctDirector(tmp, directorID);
                 List<mcl.SimplisticFilm> sFilms = (filmID == null) ? bl1.GetDistinctSimplisticFilmsFromFilms(tmp) : tmp.GetDistinctSimplisticFilm(filmID);
