@@ -13,7 +13,8 @@ namespace ApplicationVariables
 
             public struct CsvPaths
             {
-                public static string MoviesCSV = @"C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\WebMovies\ExtendedTestData.csv";
+                public static string MoviesCSV = @"E:\Projects\movieproject\WebMovies\ExtendedTestData.csv";
+               // public static string MoviesCSV = @"C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\WebMovies\ExtendedTestData.csv";
                 //public static string MoviesCSV = @"C:\Users\Recor\Documents\Visual Studio 2015\Projects\NovusMovieProject\WebMovies\ExtendedTestData.csv";
             }
 

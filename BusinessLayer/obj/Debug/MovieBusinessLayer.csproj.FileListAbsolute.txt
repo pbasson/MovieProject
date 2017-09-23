@@ -50,3 +50,16 @@ C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProj
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\BusinessLayer\obj\Debug\MovieBusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\BusinessLayer\obj\Debug\MovieBusinessLayer.dll
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\BusinessLayer\obj\Debug\MovieBusinessLayer.pdb
+E:\Projects\movieproject\BusinessLayer\bin\Debug\MovieBusinessLayer.dll
+E:\Projects\movieproject\BusinessLayer\bin\Debug\MovieBusinessLayer.pdb
+E:\Projects\movieproject\BusinessLayer\bin\Debug\ApplicationVariables.dll
+E:\Projects\movieproject\BusinessLayer\bin\Debug\DataLayer.dll
+E:\Projects\movieproject\BusinessLayer\bin\Debug\MovieClassLayer.dll
+E:\Projects\movieproject\BusinessLayer\bin\Debug\LumenWorks.Framework.IO.dll
+E:\Projects\movieproject\BusinessLayer\bin\Debug\ApplicationVariables.pdb
+E:\Projects\movieproject\BusinessLayer\bin\Debug\MovieClassLayer.pdb
+E:\Projects\movieproject\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\Projects\movieproject\BusinessLayer\bin\Debug\LumenWorks.Framework.IO.xml
+E:\Projects\movieproject\BusinessLayer\obj\Debug\MovieBusinessLayer.csprojResolveAssemblyReference.cache
+E:\Projects\movieproject\BusinessLayer\obj\Debug\MovieBusinessLayer.dll
+E:\Projects\movieproject\BusinessLayer\obj\Debug\MovieBusinessLayer.pdb

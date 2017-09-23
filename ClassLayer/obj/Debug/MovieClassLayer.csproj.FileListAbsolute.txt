@@ -16,3 +16,8 @@ C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProj
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\ClassLayer\obj\Debug\MovieClassLayer.csprojResolveAssemblyReference.cache
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\ClassLayer\obj\Debug\MovieClassLayer.dll
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\ClassLayer\obj\Debug\MovieClassLayer.pdb
+E:\Projects\movieproject\ClassLayer\bin\Debug\MovieClassLayer.dll
+E:\Projects\movieproject\ClassLayer\bin\Debug\MovieClassLayer.pdb
+E:\Projects\movieproject\ClassLayer\obj\Debug\MovieClassLayer.csprojResolveAssemblyReference.cache
+E:\Projects\movieproject\ClassLayer\obj\Debug\MovieClassLayer.dll
+E:\Projects\movieproject\ClassLayer\obj\Debug\MovieClassLayer.pdb

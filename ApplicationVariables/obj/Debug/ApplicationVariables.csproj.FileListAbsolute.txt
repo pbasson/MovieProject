@@ -17,3 +17,8 @@ C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProj
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\ApplicationVariables\obj\Debug\ApplicationVariables.csprojResolveAssemblyReference.cache
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\ApplicationVariables\obj\Debug\ApplicationVariables.dll
 C:\Users\novus.ITPS-NOVUS\Pictures\MovieProject\NovusMovieProject\NovusMovieProject\ApplicationVariables\obj\Debug\ApplicationVariables.pdb
+E:\Projects\movieproject\ApplicationVariables\bin\Debug\ApplicationVariables.dll
+E:\Projects\movieproject\ApplicationVariables\bin\Debug\ApplicationVariables.pdb
+E:\Projects\movieproject\ApplicationVariables\obj\Debug\ApplicationVariables.csprojResolveAssemblyReference.cache
+E:\Projects\movieproject\ApplicationVariables\obj\Debug\ApplicationVariables.dll
+E:\Projects\movieproject\ApplicationVariables\obj\Debug\ApplicationVariables.pdb
