@@ -1,29 +1,6 @@
-# README #
+# Movie Database Project #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+This is a c# project that dealt with movie database. This project use methodogies such as N-tier, Object orientated programming, web objects
+CSV reader, generics. Focus was drawn to creating a plan before alternating any code, this help give clarity to the code but also
+gives a plan to anyone more myself to implement the same project or any derivative type. Generics was used in the Presentation layer
+to accept ControlID & datasource list
