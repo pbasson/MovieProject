@@ -6,8 +6,18 @@ gives a plan to anyone more myself to implement the same project or any derivati
 to accept ControlID & datasource list
 
 ## Methodologies: 
+- N-Tier: 
+- Object Oriented Programming
+	- Encapsulation
+	- Abstraction
+	- Polymorphism
+	- Inheritence 
+
 
 ## Tools:
-
+- Visual Studio
+- Chrome/Firefox
+- Git source control
+- 
 ## Technologies: 
 - N-tier
