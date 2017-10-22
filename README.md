@@ -12,10 +12,18 @@ to accept ControlID & datasource list
 	- Abstraction
 	- Polymorphism
 	- Inheritence 
-
-
+- Research & planning
+- Agile framework (Loosely)
+- LINQ/Lambda (Data Filtering)
+- CSV/CSV Reader
+- Generics
+- ASP.NET Tables
+- Web Objects
+- SOLID (Single Purpose)
+- Hyperlink
 ## Tools:
 - Visual Studio
+	- Debugger
 - Chrome/Firefox
 - Git source control
 - 
