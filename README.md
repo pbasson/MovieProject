@@ -34,8 +34,7 @@ to accept ControlID & datasource list
 - Visual Studio
 	- Debugger
 - Chrome/Firefox
-- Git source control
--
+- Git source control - 
 
 ## Technologies: 
 - LINQ/Lambda (Data Filtering)
