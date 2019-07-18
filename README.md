@@ -1,10 +1,8 @@
- 
 # Movie Database Project 
 
 This is dynamic N-tier web application with Presentation layer that presents filtered data from a database. Before any code was written, the priority was first spent on researching & studying the code and subsequently planning the implementation using a code plan. This not only gave clarity and direction but also more risk-aversive both time & effort.   
 The project uses N-tier architecture to break the solution into smaller layers (projects) with single purpose. The data the project receives is from a CSV file and filters down to a single item when the drop downs are selected. 
 The requirements were to create additional drop down lists for film years & ratings, create a dynamic table & create hyperlinks to the associated ID using ASP.NET webobjects. 
-
 
 ### Brief
 
@@ -32,13 +30,11 @@ The requirements were to create additional drop down lists for film years & rati
 	- **Inheritance:** This was used eg with directors & actor derived from Person base class.  
 - **Agile framework (Loosely):** Methods used are "what is done?", "what is is to be done? & "What is blocking you?" done by timesheet & Kanban (basic). 
 
-
 ### Tools:
 - **Visual Studio:** This tool was used to write the code, use of intellisense to  
 	- **Debugger:** This tool was used to check runtime if the application is functional, fulfil requirements & defect-free. 
 - **Chrome/Firefox:** The browser was used to display the drop down lists then display a dynamic table when single item of each.  
 - **Git source control via BitBucket:** The git used to upload the project, implement new methods, update it, create a branch, push/pull repository. Includes syntax of git bash. Git editor documentation syntax. 
-
 
 ### Technologies: 
 - **LINQ/Lambda (Data Filtering)**
@@ -46,4 +42,3 @@ The requirements were to create additional drop down lists for film years & rati
 - **Generics:** This is used in the SharedBase into accept any datasource (eg. Simplistic Films, directors, actors). 
 - **ASP.NET Tables:** The technologies used are the table web server control such as Table, TableRow, TableHeaderRow & TableCell. 
 - **Web Objects:** Technology are used such as Page_Load & HTML
-
